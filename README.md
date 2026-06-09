@@ -189,21 +189,6 @@ Dashboard Analytics
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Firebase authentication
-- [ ] Cloud database
-- [ ] Leaderboards
-- [ ] Quiz sharing
-- [ ] Dark mode
-- [ ] AI quiz generator
-- [ ] Timer modes
-- [ ] Multiplayer quiz
-- [ ] Admin dashboard
-- [ ] Image-based questions
-
----
-
 ## 📚 Learning Outcomes
 
 This project helped strengthen understanding of:
